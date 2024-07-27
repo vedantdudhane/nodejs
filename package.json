@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "serv",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "vedant": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vedantdudhane/nodejs.git"
+  },
+  "author": "vedant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vedantdudhane/nodejs/issues"
+  },
+  "homepage": "https://github.com/vedantdudhane/nodejs#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {}
+}

@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/vedantdudhane/nodejs#readme",
   "dependencies": {
+    "express": "^4.19.2",
     "nodemon": "^3.1.4"
-  },
-  "devDependencies": {}
+  }
 }
